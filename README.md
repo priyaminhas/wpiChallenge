@@ -8,3 +8,4 @@ This project includes a laravel project as a solution for the tasks given as cha
     
 2. The second task accomodates the creation of an artisan command -> php artisan display:avgPrice which displays the average food item prices for each of the states. For this an artisan command class is created and models are also used as mentioned in the challenge.
 
+Note: The database sql is also added into the project as wpi.sql use this database as it has a new table for first task
